@@ -1,0 +1,117 @@
+@media screen and (max-width: 992px) {
+    .all-btns a {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-nav {
+        text-align: center !important;
+    }
+
+    .btn-login-register {
+        margin-top: 10px !important;
+    }
+
+    .navbar-brand {
+        margin: 0px !important;
+    }
+
+    .navbar-brand img {
+        height: 30px;
+    }
+
+    .form-container {
+        padding: 35px 10px;
+    }
+
+    .header-text {
+        padding-bottom: 20px;
+    }
+
+    .header-image {
+        margin-top: 25px;
+    }
+
+    .welcome-text .heading-name {
+        font-size: 72px;
+        line-height: 67px;
+    }
+
+    .welcome-text .heading-text {
+        line-height: 18px;
+    }
+
+    .header_image {
+        padding-bottom: 80px;
+    }
+
+    .header-text {
+        text-align: center;
+    }
+
+    .department-item {
+        margin: 20px 0 !important;
+    }
+
+    .start-using-content {
+        margin-bottom: 15px;
+    }
+
+    .footer-followus {
+        margin-bottom: 15px;
+    }
+
+    .start-using-block p {
+        font-size: 55px;
+    }
+
+    .start-using-block {
+        -webkit-clip-path: polygon(0 1%, 100% 6%, 100% 100%, 0 94%);
+        clip-path: polygon(0 1%, 100% 6%, 100% 100%, 0 94%);
+    }
+
+    .features {
+        padding-bottom: 10px;
+    }
+
+    .testimonials {
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+
+    .hms__features-img {
+        height: auto;
+    }
+
+    .facility-block-two {
+        margin-top: 0 !important;
+    }
+
+    .features-list {
+        margin-bottom: 25px;
+    }
+
+    .all-features {
+        margin-bottom: 0 !important;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .content-icons h5 {
+        font-size: 1.20rem;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .login {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-height: 668px) {
+    .landing-header {
+        height: auto;
+        margin-bottom: 30px;
+    }
+}
